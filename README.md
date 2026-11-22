@@ -2,11 +2,6 @@
 
 A Geode mod by jaxer14 for Geometry Dash 2.2081 and Geode 5.11.2. It measures how many frames you had for every click, in red (earlier) and blue (later).
 
-## Build
-1. Push this folder to a GitHub repository.
-2. Run **Build mod** in the Actions tab.
-3. Download **Build Output** and put the `.geode` file in `%LOCALAPPDATA%\GeometryDash\geode\mods`.
-
 ## Use
 Play a level, pause, press the red **FW** button, then **Analyze**. Or press **Import macro** and pick a `.gdr2` file. The level then plays back with a ring, number and sound on every click.
 
